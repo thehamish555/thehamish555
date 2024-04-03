@@ -1,4 +1,4 @@
-Self taught 17 Year old programmer
+Self taught 18 Year old programmer
 
 Python
   - Games
