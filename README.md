@@ -1,30 +1,49 @@
-# Mainly self taught 18 Year old programmer, studying towards a Be(Hons) Majoring in Software Engineering.
+# About Me
+👋 Hi there! I’m Hamish, an **18-year-old self-taught programmer** pursuing a **Bachelor of Engineering (Hons)** with a major in **Software Engineering**. Passionate about problem-solving, building cool projects, and constantly learning new technologies.
 
-## Personal skills I have taught myself
-**Python**
-  - Basic games
-    - UNO
-    - Snake
-    - Connect 4
-    - Tic-Tac-Toe
-  - Discord Apps (Formerly Bots)
-    - Website intergration through streamlit with secure authentication (Not currently public)
-    - Multi-File structure for clarity
-    - Try [Ham Bot](https://discord.com/oauth2/authorize?client_id=1040001176520892516) (The website must be public for this to work)
-  - Robotics
-    - Interactable interface app for softserve (A Jackbord python extenstion). Deprecated as of back-end changes.
-    - Earthquake detection system and data analysis with Raspberry Shake.
-  - School Assignments
-    - Working chess tutorial with GUI (Not game)
-    - Live spirolateral drawer
-    - NZQA Level 1 Numeracy teacher
+---
 
-**Java**
-  - Minecraft Mods
-  - University Assignments
+## 🛠️ Personal Skills & Projects
 
-**C#/++**
-  - University Assignments
+<details>
+  <summary>Python 🐍</summary>
 
-**Other Backend Tools**
-  - Git etc
+  - **Games** 🎮  
+    - Developed fun classics like **UNO**, **Snake**, **Connect 4**, and **Tic-Tac-Toe**.
+  - **Discord Apps** 🤖
+    - Created apps with **Streamlit** integration and secure authentication (private for now).
+    - Multi-file structure for enhanced clarity and scalability.
+    - Try my bot: [**Ham Bot**](https://discord.com/oauth2/authorize?client_id=1040001176520892516) *(requires website to be public)*.
+  - **Robotics** 🤖
+    - Built an interactive interface app for **Softserve** (deprecated due to backend updates).
+    - Designed an **Earthquake Detection System** with data analysis using **Raspberry Shake**.
+  - **School Assignments** 🏫
+    - A working **Chess Tutorial with GUI** (not a full game).
+    - **Spirolateral Drawer** with live updates.
+    - Made a **NZQA Level 1 Numeracy Teacher** to help guide students *(Not Official)*.
+
+</details>
+
+<details>
+  <summary>Java ☕</summary>
+
+  - Developed **Minecraft Mods**.
+  - Worked on **university assignments** to sharpen problem-solving and OOP skills.
+
+</details>
+
+<details>
+  <summary>C# / C++ 💻</summary>
+
+  - Tackled **university projects** involving both languages.
+
+</details>
+
+<details>
+  <summary>Other Tools 🔧</summary>
+
+  - **Git** and other backend technologies.
+
+</details>
+
+---
