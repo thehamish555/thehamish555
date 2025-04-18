@@ -1,5 +1,5 @@
 # About Me
-👋 Hi there! I’m Hamish, an **18-year-old self-taught programmer** pursuing a **Bachelor of Engineering (Hons)** with a major in **Software Engineering**. Passionate about problem-solving, building cool projects, and constantly learning new technologies.
+👋 Hi there! I’m Hamish, an **19-year-old self-taught programmer** pursuing a **Bachelor of Engineering (Hons)** with a major in **Software Engineering**. Passionate about problem-solving, building cool projects, and constantly learning new technologies.
 
 ---
 
